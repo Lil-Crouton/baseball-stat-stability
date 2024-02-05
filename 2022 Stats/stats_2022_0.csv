@@ -1,0 +1,144 @@
+Name,Age,#days,Lev,Date,Tm, ,Opp,G,PA,AB,R,H,2B,3B,HR,RBI,BB,IBB,SO,HBP,SH,SF,GDP,SB,CS,BA,OBP,SLG,OPS,mlbID
+Willy Adames,26,668,Maj-NL,"Apr 7, 2022",Milwaukee,@,Chicago,1,5,5,0,2,1,0,0,1,0,0,2,0,0,0,1,0,0,0.4,0.4,0.6,1.0,642715
+Jo Adell,23,668,Maj-AL,"Apr 7, 2022",Los Angeles,,Houston,1,3,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,666176
+Ozzie Albies,25,668,Maj-NL,"Apr 7, 2022",Atlanta,,Cincinnati,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,645277
+Sergio Alc\xc3\xa1ntara,25,668,Maj-NL,"Apr 7, 2022",Arizona,,San Diego,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,642727
+Pete Alonso,27,668,Maj-NL,"Apr 7, 2022",New York,@,Washington,1,5,4,1,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0.5,0.6,0.5,1.1,624413
+Jos\xc3\xa9 Altuve,32,668,Maj-AL,"Apr 7, 2022",Houston,@,Los Angeles,1,5,4,0,0,0,0,0,0,1,0,3,0,0,0,0,1,0,0.0,0.2,0.0,0.2,514888
+Yordan \xc3\x81lvarez,25,668,Maj-AL,"Apr 7, 2022",Houston,@,Los Angeles,1,4,3,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0.333,0.5,1.333,1.833,670541
+Aristides Aquino,28,668,Maj-NL,"Apr 7, 2022",Cincinnati,@,Atlanta,1,5,5,1,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0.2,0.2,0.2,0.4,606157
+Nolan Arenado,31,668,Maj-NL,"Apr 7, 2022",St. Louis,,Pittsburgh,1,5,4,1,1,0,0,1,2,1,0,1,0,0,0,0,0,0,0.25,0.4,1.0,1.4,571448
+Jos\xc3\xa9 Azocar,26,668,Maj-NL,"Apr 7, 2022",San Diego,@,Arizona,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,640492
+Harrison Bader,28,668,Maj-NL,"Apr 7, 2022",St. Louis,,Pittsburgh,1,4,4,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.75,1.25,664056
+Seth Beer,25,668,Maj-NL,"Apr 7, 2022",Arizona,,San Diego,1,4,4,1,2,0,0,1,3,0,0,1,0,0,0,0,0,0,0.5,0.5,1.25,1.75,666179
+Josh Bell,29,668,Maj-NL,"Apr 7, 2022",Washington,,New York,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,605137
+Andrew Benintendi,27,668,Maj-AL,"Apr 7, 2022",Kansas City,,Cleveland,1,4,4,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0.25,0.25,0.25,0.5,643217
+Bobby Bradley,26,668,Maj-AL,"Apr 7, 2022",Cleveland,@,Kansas City,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,656252
+Michael Brantley,35,668,Maj-AL,"Apr 7, 2022",Houston,@,Los Angeles,1,5,5,1,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0.4,0.4,0.6,1.0,488726
+Alex Bregman,28,668,Maj-AL,"Apr 7, 2022",Houston,@,Los Angeles,1,4,4,1,2,0,0,1,2,0,0,0,0,0,0,0,0,0,0.5,0.5,1.25,1.75,608324
+Mike Brosseau,28,668,Maj-NL,"Apr 7, 2022",Milwaukee,@,Chicago,1,2,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.5,0.0,0.5,670712
+Lorenzo Cain,36,668,Maj-NL,"Apr 7, 2022",Milwaukee,@,Chicago,1,4,3,1,1,1,0,0,2,0,0,1,0,0,1,0,0,0,0.333,0.25,0.667,0.917,456715
+Mark Canha,33,668,Maj-NL,"Apr 7, 2022",New York,@,Washington,1,4,3,1,2,0,0,0,1,1,0,1,0,0,0,0,0,0,0.667,0.75,0.667,1.417,592192
+Robinson Can\xc3\xb3,39,668,Maj-NL,"Apr 7, 2022",New York,@,Washington,1,4,3,2,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0.667,0.75,0.667,1.417,429664
+V\xc3\xadctor Caratini,28,668,Maj-NL,"Apr 7, 2022",Milwaukee,@,Chicago,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1.0,1.0,2.0,3.0,605170
+Dylan Carlson,23,668,Maj-NL,"Apr 7, 2022",St. Louis,,Pittsburgh,1,5,3,2,1,1,0,0,1,0,0,2,1,0,1,0,0,0,0.333,0.4,0.667,1.067,666185
+Diego Castillo,24,668,Maj-NL,"Apr 7, 2022",Pittsburgh,@,St. Louis,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,660636
+Yu Chang,26,668,Maj-AL,"Apr 7, 2022",Cleveland,@,Kansas City,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,644374
+Michael Chavis,26,668,Maj-NL,"Apr 7, 2022",Pittsburgh,@,St. Louis,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,656308
+Willson Contreras,30,668,Maj-NL,"Apr 7, 2022",Chicago,,Milwaukee,1,4,3,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0.0,0.25,0.0,0.25,575929
+Jake Cronenworth,28,668,Maj-NL,"Apr 7, 2022",San Diego,@,Arizona,1,4,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0.0,0.5,0.0,0.5,630105
+Nelson Cruz,41,668,Maj-NL,"Apr 7, 2022",Washington,,New York,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,443558
+Travis d\'Arnaud,33,668,Maj-NL,"Apr 7, 2022",Atlanta,,Cincinnati,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,518595
+J.D. Davis,29,668,Maj-NL,"Apr 7, 2022",New York,@,Washington,1,5,4,1,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0.25,0.4,0.5,0.9,605204
+Paul DeJong,28,668,Maj-NL,"Apr 7, 2022",St. Louis,,Pittsburgh,1,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.25,0.0,0.25,657557
+Alex Dickerson,32,668,Maj-NL,"Apr 7, 2022",Atlanta,,Cincinnati,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,543105
+Hunter Dozier,30,668,Maj-AL,"Apr 7, 2022",Kansas City,,Cleveland,1,3,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0.0,0.0,0.0,0.0,641531
+Brandon Drury,29,668,Maj-NL,"Apr 7, 2022",Cincinnati,@,Atlanta,1,4,4,1,2,0,0,1,3,0,0,1,0,0,0,0,0,0,0.5,0.5,1.25,1.75,592273
+Matt Duffy,31,668,Maj-AL,"Apr 7, 2022",Los Angeles,,Houston,1,3,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0.667,0.667,0.667,1.333,622110
+Adam Duvall,33,668,Maj-NL,"Apr 7, 2022",Atlanta,,Cincinnati,1,4,3,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0.0,0.25,0.0,0.25,594807
+Tommy Edman,27,668,Maj-NL,"Apr 7, 2022",St. Louis,,Pittsburgh,1,4,4,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0.25,0.25,1.0,1.25,669242
+Drew Ellis,26,668,Maj-NL,"Apr 7, 2022",Arizona,,San Diego,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,656403
+Alcides Escobar,35,668,Maj-NL,"Apr 7, 2022",Washington,,New York,1,4,4,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,444876
+Eduardo Escobar,33,668,Maj-NL,"Apr 7, 2022",New York,@,Washington,1,5,4,0,1,1,0,0,0,1,0,2,0,0,0,0,0,0,0.25,0.4,0.5,0.9,500871
+Kyle Farmer,31,668,Maj-NL,"Apr 7, 2022",Cincinnati,@,Atlanta,1,4,4,1,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0.5,0.5,0.5,1.0,571657
+David Fletcher,28,668,Maj-AL,"Apr 7, 2022",Los Angeles,,Houston,1,3,3,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0.333,0.333,1.0,1.333,664058
+Maikel Franco,29,668,Maj-NL,"Apr 7, 2022",Washington,,New York,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0.0,0.0,0.0,0.0,596748
+Clint Frazier,27,668,Maj-NL,"Apr 7, 2022",Chicago,,Milwaukee,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1.0,1.0,2.0,3.0,640449
+Ben Gamel,30,668,Maj-NL,"Apr 7, 2022",Pittsburgh,@,St. Louis,1,3,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.333,0.0,0.333,592325
+Andr\xc3\xa9s Gim\xc3\xa9nez,23,668,Maj-AL,"Apr 7, 2022",Cleveland,@,Kansas City,1,4,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25,0.25,0.25,0.5,665926
+Paul Goldschmidt,34,668,Maj-NL,"Apr 7, 2022",St. Louis,,Pittsburgh,1,5,1,2,1,0,0,0,0,4,0,0,0,0,0,0,1,0,1.0,1.0,1.0,2.0,502671
+Trent Grisham,25,668,Maj-NL,"Apr 7, 2022",San Diego,@,Arizona,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,663757
+Yuli Gurriel,38,668,Maj-AL,"Apr 7, 2022",Houston,@,Los Angeles,1,4,4,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.5,0.75,493329
+Ian Happ,27,668,Maj-NL,"Apr 7, 2022",Chicago,,Milwaukee,1,4,4,0,3,2,0,0,2,0,0,0,0,0,0,0,0,0,0.75,0.75,1.25,2.0,664023
+Ke\'Bryan Hayes,25,668,Maj-NL,"Apr 7, 2022",Pittsburgh,@,St. Louis,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,663647
+Austin Hedges,29,668,Maj-AL,"Apr 7, 2022",Cleveland,@,Kansas City,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,595978
+Guillermo Heredia,31,668,Maj-NL,"Apr 7, 2022",Atlanta,,Cincinnati,1,2,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,628338
+C\xc3\xa9sar Hern\xc3\xa1ndez,32,668,Maj-NL,"Apr 7, 2022",Washington,,New York,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,514917
+Jason Heyward,32,668,Maj-NL,"Apr 7, 2022",Chicago,,Milwaukee,1,4,4,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.5,1.0,518792
+Nico Hoerner,25,668,Maj-NL,"Apr 7, 2022",Chicago,,Milwaukee,1,3,3,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0.333,0.333,1.333,1.667,663538
+Eric Hosmer,32,668,Maj-NL,"Apr 7, 2022",San Diego,@,Arizona,1,4,4,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.25,0.25,0.5,0.75,543333
+Cooper Hummel,27,668,Maj-NL,"Apr 7, 2022",Arizona,,San Diego,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,1.0,,,669450
+Jonathan India,25,668,Maj-NL,"Apr 7, 2022",Cincinnati,@,Atlanta,1,5,5,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0.4,0.4,0.4,0.8,663697
+Travis Jankowski,31,668,Maj-NL,"Apr 7, 2022",New York,@,Washington,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,608671
+Carson Kelly,27,668,Maj-NL,"Apr 7, 2022",Arizona,,San Diego,1,4,3,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.25,0.0,0.25,608348
+Ha-Seong Kim,26,668,Maj-NL,"Apr 7, 2022",San Diego,@,Arizona,1,4,3,2,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0.0,0.25,0.0,0.25,673490
+Steven Kwan,24,668,Maj-AL,"Apr 7, 2022",Cleveland,@,Kansas City,1,4,2,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0.5,0.75,0.5,1.25,680757
+Francisco Lindor,28,668,Maj-NL,"Apr 7, 2022",New York,@,Washington,1,5,5,0,1,0,0,0,1,0,0,3,0,0,0,0,0,0,0.2,0.2,0.2,0.4,596019
+Nicky Lopez,27,668,Maj-AL,"Apr 7, 2022",Kansas City,,Cleveland,1,3,2,0,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0.5,0.5,1.0,1.5,670032
+Manny Machado,29,668,Maj-NL,"Apr 7, 2022",San Diego,@,Arizona,1,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.25,0.0,0.25,592518
+Nick Madrigal,25,668,Maj-NL,"Apr 7, 2022",Chicago,,Milwaukee,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,663611
+Mart\xc3\xadn Maldonado,35,668,Maj-AL,"Apr 7, 2022",Houston,@,Los Angeles,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,455117
+Brandon Marsh,24,668,Maj-AL,"Apr 7, 2022",Los Angeles,,Houston,1,3,2,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0.0,0.333,0.0,0.333,669016
+Ketel Marte,28,668,Maj-NL,"Apr 7, 2022",Arizona,,San Diego,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,606466
+Starling Marte,33,668,Maj-NL,"Apr 7, 2022",New York,@,Washington,1,5,5,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0.2,0.2,0.2,0.4,516782
+James McCann,32,668,Maj-NL,"Apr 7, 2022",New York,@,Washington,1,4,2,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0.0,0.5,0.0,0.5,543510
+Jake McCarthy,24,668,Maj-NL,"Apr 7, 2022",Arizona,,San Diego,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,664983
+Chas McCormick,27,668,Maj-AL,"Apr 7, 2022",Houston,@,Los Angeles,1,4,4,0,2,2,0,0,0,0,0,1,0,0,0,0,0,0,0.5,0.5,1.0,1.5,676801
+Andrew McCutchen,35,668,Maj-NL,"Apr 7, 2022",Milwaukee,@,Chicago,1,5,5,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0.4,0.6,1.0,457705
+Jeff McNeil,30,668,Maj-NL,"Apr 7, 2022",New York,@,Washington,1,4,4,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0.5,0.5,0.5,1.0,643446
+\xc3\x93scar Mercado,27,668,Maj-AL,"Apr 7, 2022",Cleveland,@,Kansas City,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,640458
+Whit Merrifield,33,668,Maj-AL,"Apr 7, 2022",Kansas City,,Cleveland,1,4,4,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,593160
+Owen Miller,25,668,Maj-AL,"Apr 7, 2022",Cleveland,@,Kansas City,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,1.0,,,680911
+Yadier Molina,39,668,Maj-NL,"Apr 7, 2022",St. Louis,,Pittsburgh,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,425877
+Adalberto Mondes\xc3\xad,26,668,Maj-AL,"Apr 7, 2022",Kansas City,,Cleveland,1,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,609275
+Mike Moustakas,33,668,Maj-NL,"Apr 7, 2022",Cincinnati,@,Atlanta,1,4,4,1,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,519058
+Wil Myers,31,668,Maj-NL,"Apr 7, 2022",San Diego,@,Arizona,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0.0,0.0,0.0,0.0,571976
+Omar Narv\xc3\xa1ez,30,668,Maj-NL,"Apr 7, 2022",Milwaukee,@,Chicago,1,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,,1.0,,,553882
+Kevin Newman,28,668,Maj-NL,"Apr 7, 2022",Pittsburgh,@,St. Louis,1,4,4,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0.25,0.25,0.25,0.5,621028
+Austin Nola,32,668,Maj-NL,"Apr 7, 2022",San Diego,@,Arizona,1,4,4,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0.25,0.25,0.25,0.5,543592
+Tyler O\'Neill,27,668,Maj-NL,"Apr 7, 2022",St. Louis,,Pittsburgh,1,5,3,1,2,0,0,1,5,1,0,1,0,0,1,0,0,0,0.667,0.6,1.667,2.267,641933
+Shohei Ohtani,27,668,Maj-AL,"Apr 7, 2022",Los Angeles,,Houston,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,660271
+Matt Olson,28,668,Maj-NL,"Apr 7, 2022",Atlanta,,Cincinnati,1,4,2,1,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0.0,0.5,0.0,0.5,621566
+Rafael Ortega,31,668,Maj-NL,"Apr 7, 2022",Chicago,,Milwaukee,1,3,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0.0,0.333,0.0,0.333,542364
+Marcell Ozuna,31,668,Maj-NL,"Apr 7, 2022",Atlanta,,Cincinnati,1,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.25,0.0,0.25,542303
+Hoy Park,26,668,Maj-NL,"Apr 7, 2022",Pittsburgh,@,St. Louis,1,3,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.333,0.333,0.333,0.667,660829
+Jeremy Pe\xc3\xb1a,24,668,Maj-AL,"Apr 7, 2022",Houston,@,Los Angeles,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,665161
+David Peralta,34,668,Maj-NL,"Apr 7, 2022",Arizona,,San Diego,1,4,2,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0.0,0.5,0.0,0.5,444482
+Geraldo Perdomo,22,668,Maj-NL,"Apr 7, 2022",Arizona,,San Diego,1,3,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.333,0.0,0.333,672695
+Roberto P\xc3\xa9rez,33,668,Maj-NL,"Apr 7, 2022",Pittsburgh,@,St. Louis,1,3,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.5,0.667,0.5,1.167,547379
+Salvador P\xc3\xa9rez,32,668,Maj-AL,"Apr 7, 2022",Kansas City,,Cleveland,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,521692
+Jace Peterson,32,668,Maj-NL,"Apr 7, 2022",Milwaukee,@,Chicago,1,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0.0,0.5,0.0,0.5,607054
+Tommy Pham,34,668,Maj-NL,"Apr 7, 2022",Cincinnati,@,Atlanta,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,502054
+Jurickson Profar,29,668,Maj-NL,"Apr 7, 2022",San Diego,@,Arizona,1,4,3,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0.333,0.5,0.333,0.833,595777
+Albert Pujols,42,668,Maj-NL,"Apr 7, 2022",St. Louis,,Pittsburgh,1,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,405395
+Jos\xc3\xa9 Ram\xc3\xadrez,29,668,Maj-AL,"Apr 7, 2022",Cleveland,@,Kansas City,1,4,4,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0.25,0.25,0.5,0.75,608070
+Anthony Rendon,32,668,Maj-AL,"Apr 7, 2022",Los Angeles,,Houston,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0.0,0.0,0.0,0.0,543685
+Hunter Renfroe,30,668,Maj-NL,"Apr 7, 2022",Milwaukee,@,Chicago,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,592669
+Franmil Reyes,26,668,Maj-AL,"Apr 7, 2022",Cleveland,@,Kansas City,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,614177
+Bryan Reynolds,27,668,Maj-NL,"Apr 7, 2022",Pittsburgh,@,St. Louis,1,4,4,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,668804
+Austin Riley,25,668,Maj-NL,"Apr 7, 2022",Atlanta,,Cincinnati,1,4,4,1,3,0,0,1,2,0,0,0,0,0,0,0,0,0,0.75,0.75,1.5,2.25,663586
+V\xc3\xadctor Robles,25,668,Maj-NL,"Apr 7, 2022",Washington,,New York,1,3,2,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0.0,0.0,0.0,0.0,645302
+Amed Rosario,26,668,Maj-AL,"Apr 7, 2022",Cleveland,@,Kansas City,1,4,4,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.25,0.25,0.25,0.5,642708
+Eddie Rosario,30,668,Maj-NL,"Apr 7, 2022",Atlanta,,Cincinnati,1,4,3,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,592696
+Keibert Ruiz,23,668,Maj-NL,"Apr 7, 2022",Washington,,New York,1,4,4,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.75,1.25,660688
+Carlos Santana,36,668,Maj-AL,"Apr 7, 2022",Kansas City,,Cleveland,1,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.333,0.0,0.333,467793
+Frank Schwindel,30,668,Maj-NL,"Apr 7, 2022",Chicago,,Milwaukee,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,643524
+Nick Senzel,27,668,Maj-NL,"Apr 7, 2022",Cincinnati,@,Atlanta,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0.25,0.25,0.25,0.5,669222
+Dominic Smith,27,668,Maj-NL,"Apr 7, 2022",New York,@,Washington,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,642086
+Pavin Smith,26,668,Maj-NL,"Apr 7, 2022",Arizona,,San Diego,1,4,2,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0.5,0.75,0.5,1.25,656976
+Juan Soto,23,668,Maj-NL,"Apr 7, 2022",Washington,,New York,1,4,3,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0.333,0.5,1.333,1.833,665742
+Max Stassi,31,668,Maj-AL,"Apr 7, 2022",Los Angeles,,Houston,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,545358
+Tyler Stephenson,25,668,Maj-NL,"Apr 7, 2022",Cincinnati,@,Atlanta,1,4,2,1,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0.0,0.25,0.0,0.25,663886
+Myles Straw,27,668,Maj-AL,"Apr 7, 2022",Cleveland,@,Kansas City,1,5,4,1,2,0,0,0,0,1,0,1,0,0,0,0,1,0,0.5,0.6,0.5,1.1,664702
+Seiya Suzuki,27,668,Maj-NL,"Apr 7, 2022",Chicago,,Milwaukee,1,4,2,1,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0.5,0.75,0.5,1.25,673548
+Dansby Swanson,28,668,Maj-NL,"Apr 7, 2022",Atlanta,,Cincinnati,1,4,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,621020
+Michael A. Taylor,31,668,Maj-AL,"Apr 7, 2022",Kansas City,,Cleveland,1,3,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.333,0.0,0.333,572191
+Tyrone Taylor,28,668,Maj-NL,"Apr 7, 2022",Milwaukee,@,Chicago,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,621438
+Rowdy Tellez,27,668,Maj-NL,"Apr 7, 2022",Milwaukee,@,Chicago,1,4,4,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0.5,0.5,0.5,1.0,642133
+Lane Thomas,26,668,Maj-NL,"Apr 7, 2022",Washington,,New York,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,657041
+Mike Trout,30,668,Maj-AL,"Apr 7, 2022",Los Angeles,,Houston,1,4,3,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0.333,0.5,0.333,0.833,545361
+Yoshi Tsutsugo,30,668,Maj-NL,"Apr 7, 2022",Pittsburgh,@,St. Louis,1,3,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0.667,0.667,0.667,1.333,660294
+Cole Tucker,25,668,Maj-NL,"Apr 7, 2022",Pittsburgh,@,St. Louis,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0.0,0.0,0.0,0.0,657061
+Kyle Tucker,25,668,Maj-AL,"Apr 7, 2022",Houston,@,Los Angeles,1,4,3,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,663656
+Josh VanMeter,27,668,Maj-NL,"Apr 7, 2022",Pittsburgh,@,St. Louis,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,642165
+Daulton Varsho,25,668,Maj-NL,"Apr 7, 2022",Arizona,,San Diego,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,662139
+Daniel Vogelbach,29,668,Maj-NL,"Apr 7, 2022",Pittsburgh,@,St. Louis,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,596129
+Luke Voit,31,668,Maj-NL,"Apr 7, 2022",San Diego,@,Arizona,1,4,2,0,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0.0,0.5,0.0,0.5,572228
+Joey Votto,38,668,Maj-NL,"Apr 7, 2022",Cincinnati,@,Atlanta,1,4,4,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,458015
+Tyler Wade,27,668,Maj-AL,"Apr 7, 2022",Los Angeles,,Houston,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,642180
+Christian Walker,31,668,Maj-NL,"Apr 7, 2022",Arizona,,San Diego,1,4,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.25,0.0,0.25,572233
+Jared Walsh,28,668,Maj-AL,"Apr 7, 2022",Los Angeles,,Houston,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,665120
+Patrick Wisdom,30,668,Maj-NL,"Apr 7, 2022",Chicago,,Milwaukee,1,4,3,0,0,0,0,0,1,0,0,2,0,0,1,0,0,0,0.0,0.0,0.0,0.0,621550
+Bobby Witt Jr.,22,668,Maj-AL,"Apr 7, 2022",Kansas City,,Cleveland,1,4,4,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0.25,0.25,0.5,0.75,677951
+Kolten Wong,31,668,Maj-NL,"Apr 7, 2022",Milwaukee,@,Chicago,1,5,5,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0.2,0.4,543939
+Christian Yelich,30,668,Maj-NL,"Apr 7, 2022",Milwaukee,@,Chicago,1,5,3,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0.0,0.2,0.0,0.2,592885
