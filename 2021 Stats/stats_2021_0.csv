@@ -1,0 +1,291 @@
+Name,Age,#days,Lev,Date,Tm, ,Opp,G,PA,AB,R,H,2B,3B,HR,RBI,BB,IBB,SO,HBP,SH,SF,GDP,SB,CS,BA,OBP,SLG,OPS,mlbID
+Jos\xc3\xa9 Abreu,34,1043,Maj-AL,"Apr 1, 2021",Chicago,@,Los Angeles,1,4,4,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,547989
+Ronald Acuna Jr.,23,1043,Maj-NL,"Apr 1, 2021",Atlanta,@,Philadelphia,1,5,4,0,2,1,0,0,0,1,0,1,0,0,0,0,0,0,0.5,0.6,0.75,1.35,660670
+Willy Adames,25,1043,Maj-AL,"Apr 1, 2021",Tampa Bay,@,Miami,1,4,4,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,642715
+Ehire Adrianza,31,1043,Maj-NL,"Apr 1, 2021",Atlanta,@,Philadelphia,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,501303
+Jes\xc3\xbas Aguilar,31,1043,Maj-NL,"Apr 1, 2021",Miami,,Tampa Bay,1,4,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.5,1.0,542583
+Hanser Alberto,28,1043,Maj-AL,"Apr 1, 2021",Kansas City,,Texas,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,593643
+Ozzie Albies,24,1043,Maj-NL,"Apr 1, 2021",Atlanta,@,Philadelphia,1,5,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,645277
+Sandy Alc\xc3\xa1ntara,25,1043,Maj-NL,"Apr 1, 2021",Miami,,Tampa Bay,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,645261
+Jorge Alfaro,28,1043,Maj-NL,"Apr 1, 2021",Miami,,Tampa Bay,1,3,3,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0.333,0.333,0.333,0.667,595751
+Anthony Alford,26,1043,Maj-NL,"Apr 1, 2021",Pittsburgh,@,Chicago,1,5,3,1,0,0,0,0,0,2,0,3,0,0,0,0,1,1,0.0,0.4,0.0,0.4,546990
+Jos\xc3\xa9 Altuve,31,1043,Maj-AL,"Apr 1, 2021",Houston,@,Oakland,1,5,4,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.25,0.4,0.25,0.65,514888
+Yordan \xc3\x81lvarez,24,1043,Maj-AL,"Apr 1, 2021",Houston,@,Oakland,1,5,3,0,1,1,0,0,3,0,0,0,1,0,1,0,0,0,0.333,0.4,0.667,1.067,670541
+Brian Anderson,28,1043,Maj-NL,"Apr 1, 2021",Miami,,Tampa Bay,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,605119
+Tim Anderson,28,1043,Maj-AL,"Apr 1, 2021",Chicago,@,Los Angeles,1,4,4,1,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,641313
+Elvis Andrus,32,1043,Maj-AL,"Apr 1, 2021",Oakland,,Houston,1,3,3,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0.333,0.333,0.667,1.0,462101
+Aristides Aquino,27,1043,Maj-NL,"Apr 1, 2021",Cincinnati,,St. Louis,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,606157
+Orlando Arcia,26,1043,Maj-NL,"Apr 1, 2021",Milwaukee,,Minnesota,1,2,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,606115
+Nolan Arenado,30,1043,Maj-NL,"Apr 1, 2021",St. Louis,@,Cincinnati,1,5,5,1,2,0,0,0,1,0,0,2,0,0,0,0,0,0,0.4,0.4,0.4,0.8,571448
+Randy Arozarena,26,1043,Maj-AL,"Apr 1, 2021",Tampa Bay,@,Miami,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,668227
+Luis Arr\xc3\xa1ez,24,1043,Maj-AL,"Apr 1, 2021",Minnesota,@,Milwaukee,1,6,5,0,2,0,0,0,1,1,0,1,0,0,0,0,0,0,0.4,0.5,0.4,0.9,650333
+Willians Astudillo,29,1043,Maj-AL,"Apr 1, 2021",Minnesota,@,Milwaukee,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,553902
+Javier B\xc3\xa1ez,28,1043,Maj-NL,"Apr 1, 2021",Chicago,,Pittsburgh,1,4,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,595879
+Austin Barnes,31,1043,Maj-NL,"Apr 1, 2021",Los Angeles,@,Colorado,1,4,2,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0.0,0.5,0.0,0.5,605131
+Tucker Barnhart,30,1043,Maj-NL,"Apr 1, 2021",Cincinnati,,St. Louis,1,2,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.5,0.0,0.5,571466
+Jake Bauers,25,1043,Maj-AL,"Apr 1, 2021",Cleveland,@,Detroit,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,641343
+Matt Beaty,28,1043,Maj-NL,"Apr 1, 2021",Los Angeles,@,Colorado,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,607461
+Cody Bellinger,25,1043,Maj-NL,"Apr 1, 2021",Los Angeles,@,Colorado,1,5,4,1,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0.5,0.6,0.75,1.35,641355
+Brandon Belt,33,1043,Maj-NL,"Apr 1, 2021",San Francisco,@,Seattle,1,5,4,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0.25,0.4,0.25,0.65,474832
+Andrew Benintendi,26,1043,Maj-AL,"Apr 1, 2021",Kansas City,,Texas,1,6,5,2,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0.2,0.333,0.2,0.533,643217
+Mookie Betts,28,1043,Maj-NL,"Apr 1, 2021",Los Angeles,@,Colorado,1,6,6,1,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0.333,0.333,0.5,0.833,605141
+Bo Bichette,23,1043,Maj-AL,"Apr 1, 2021",Toronto,@,New York,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,666182
+Cavan Biggio,26,1043,Maj-AL,"Apr 1, 2021",Toronto,@,New York,1,5,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,624415
+Charlie Blackmon,34,1043,Maj-NL,"Apr 1, 2021",Colorado,,Los Angeles,1,4,3,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,453568
+Alex Blandino,28,1043,Maj-NL,"Apr 1, 2021",Cincinnati,,St. Louis,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,607468
+Alec Bohm,24,1043,Maj-NL,"Apr 1, 2021",Philadelphia,,Atlanta,1,5,3,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0.0,0.2,0.0,0.2,664761
+David Bote,28,1043,Maj-NL,"Apr 1, 2021",Chicago,,Pittsburgh,1,2,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.5,0.0,0.5,623520
+Jackie Bradley Jr.,31,1043,Maj-NL,"Apr 1, 2021",Milwaukee,,Minnesota,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,598265
+Michael Brantley,34,1043,Maj-AL,"Apr 1, 2021",Houston,@,Oakland,1,5,4,2,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0.75,0.8,1.75,2.55,488726
+Alex Bregman,27,1043,Maj-AL,"Apr 1, 2021",Houston,@,Oakland,1,5,4,2,2,1,0,1,2,1,0,0,0,0,0,1,0,0,0.5,0.6,1.5,2.1,608324
+Jay Bruce,34,1043,Maj-AL,"Apr 1, 2021",New York,,Toronto,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,457803
+Kris Bryant,29,1043,Maj-NL,"Apr 1, 2021",Chicago,,Pittsburgh,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,592178
+Madison Bumgarner,31,1043,Maj-NL,"Apr 1, 2021",Arizona,@,San Diego,1,2,2,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0.5,0.5,1.0,1.5,518516
+Byron Buxton,27,1043,Maj-AL,"Apr 1, 2021",Minnesota,@,Milwaukee,1,5,3,1,1,0,0,1,2,2,0,2,0,0,0,0,1,0,0.333,0.6,1.333,1.933,621439
+Asdr\xc3\xbabal Cabrera,35,1043,Maj-NL,"Apr 1, 2021",Arizona,@,San Diego,1,5,5,1,2,0,0,1,3,0,0,1,0,0,0,0,0,0,0.4,0.4,1.0,1.4,452678
+Miguel Cabrera,38,1043,Maj-AL,"Apr 1, 2021",Detroit,,Cleveland,1,4,4,1,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0.25,0.25,1.0,1.25,408234
+Lorenzo Cain,35,1043,Maj-NL,"Apr 1, 2021",Milwaukee,,Minnesota,1,5,5,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0.2,0.4,456715
+Jeimer Candelario,27,1043,Maj-AL,"Apr 1, 2021",Detroit,,Cleveland,1,4,4,1,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0.25,0.25,0.25,0.5,600869
+Mark Canha,32,1043,Maj-AL,"Apr 1, 2021",Oakland,,Houston,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,592192
+V\xc3\xadctor Caratini,27,1043,Maj-NL,"Apr 1, 2021",San Diego,,Arizona,1,4,4,0,2,0,0,0,3,0,0,1,0,0,0,0,0,0,0.5,0.5,0.5,1.0,605170
+Dylan Carlson,22,1043,Maj-NL,"Apr 1, 2021",St. Louis,@,Cincinnati,1,4,3,1,1,0,0,1,3,1,0,2,0,0,0,0,0,0,0.333,0.5,1.333,1.833,666185
+Matt Carpenter,35,1043,Maj-NL,"Apr 1, 2021",St. Louis,@,Cincinnati,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,572761
+Nick Castellanos,29,1043,Maj-NL,"Apr 1, 2021",Cincinnati,,St. Louis,1,5,5,2,3,1,0,1,2,0,0,0,0,0,0,0,0,0,0.6,0.6,1.4,2.0,592206
+Luis Castillo,28,1043,Maj-NL,"Apr 1, 2021",Cincinnati,,St. Louis,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,,,622491
+Harold Castro,27,1043,Maj-AL,"Apr 1, 2021",Detroit,,Cleveland,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,605612
+Willi Castro,24,1043,Maj-AL,"Apr 1, 2021",Detroit,,Cleveland,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,650489
+Jake Cave,28,1043,Maj-AL,"Apr 1, 2021",Minnesota,@,Milwaukee,1,5,4,1,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.2,595909
+Yu Chang,25,1043,Maj-AL,"Apr 1, 2021",Cleveland,@,Detroit,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,644374
+Matt Chapman,28,1043,Maj-AL,"Apr 1, 2021",Oakland,,Houston,1,4,3,0,0,0,0,0,1,0,0,2,0,0,1,1,0,0,0.0,0.0,0.0,0.0,656305
+Jazz Chisholm Jr.,23,1043,Maj-NL,"Apr 1, 2021",Miami,,Tampa Bay,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,665862
+Zack Collins,26,1043,Maj-AL,"Apr 1, 2021",Chicago,@,Los Angeles,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,641470
+Willson Contreras,29,1043,Maj-NL,"Apr 1, 2021",Chicago,,Pittsburgh,1,4,3,2,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0.0,0.0,0.0,0.0,575929
+Garrett Cooper,30,1043,Maj-NL,"Apr 1, 2021",Miami,,Tampa Bay,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,1.0,,,643265
+Carlos Correa,26,1043,Maj-AL,"Apr 1, 2021",Houston,@,Oakland,1,5,3,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0.333,0.6,0.333,0.933,621043
+Brandon Crawford,34,1043,Maj-NL,"Apr 1, 2021",San Francisco,@,Seattle,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,543063
+J.P. Crawford,26,1043,Maj-AL,"Apr 1, 2021",Seattle,,San Francisco,1,4,3,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,641487
+C.J. Cron,31,1043,Maj-NL,"Apr 1, 2021",Colorado,,Los Angeles,1,4,4,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.75,1.25,543068
+Jake Cronenworth,27,1043,Maj-NL,"Apr 1, 2021",San Diego,,Arizona,1,4,2,3,2,0,1,0,0,2,0,0,0,0,0,0,0,0,1.0,1.0,2.0,3.0,630105
+Nelson Cruz,40,1043,Maj-AL,"Apr 1, 2021",Minnesota,@,Milwaukee,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,443558
+Travis d\'Arnaud,32,1043,Maj-NL,"Apr 1, 2021",Atlanta,@,Philadelphia,1,4,4,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,518595
+David Dahl,27,1043,Maj-AL,"Apr 1, 2021",Texas,@,Kansas City,1,6,5,2,3,1,0,0,0,1,0,2,0,0,0,0,0,0,0.6,0.667,0.8,1.467,621311
+Yu Darvish,34,1043,Maj-NL,"Apr 1, 2021",San Diego,,Arizona,1,2,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,506433
+Jonathan Davis,29,1043,Maj-AL,"Apr 1, 2021",Toronto,@,New York,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,641505
+Yonathan Daza,27,1043,Maj-NL,"Apr 1, 2021",Colorado,,Los Angeles,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,602074
+Paul DeJong,27,1043,Maj-NL,"Apr 1, 2021",St. Louis,@,Cincinnati,1,5,5,1,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0.2,0.2,0.2,0.4,657557
+El\xc3\xadas D\xc3\xadaz,30,1043,Maj-NL,"Apr 1, 2021",Colorado,,Los Angeles,1,4,4,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,553869
+Yandy D\xc3\xadaz,29,1043,Maj-AL,"Apr 1, 2021",Tampa Bay,@,Miami,1,4,3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0.0,0.25,0.0,0.25,650490
+Alex Dickerson,31,1043,Maj-NL,"Apr 1, 2021",San Francisco,@,Seattle,1,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1.0,1.0,4.0,5.0,543105
+Corey Dickerson,32,1043,Maj-NL,"Apr 1, 2021",Miami,,Tampa Bay,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,572816
+Josh Donaldson,35,1043,Maj-AL,"Apr 1, 2021",Minnesota,@,Milwaukee,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1.0,1.0,2.0,3.0,518626
+Hunter Dozier,29,1043,Maj-AL,"Apr 1, 2021",Kansas City,,Texas,1,5,4,1,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0.0,0.2,0.0,0.2,641531
+Mauricio Dub\xc3\xb3n,26,1043,Maj-NL,"Apr 1, 2021",San Francisco,@,Seattle,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,643289
+Matt Duffy,30,1043,Maj-NL,"Apr 1, 2021",Chicago,,Pittsburgh,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,622110
+Adam Duvall,32,1043,Maj-NL,"Apr 1, 2021",Miami,,Tampa Bay,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,594807
+Adam Eaton,32,1043,Maj-AL,"Apr 1, 2021",Chicago,@,Los Angeles,1,4,4,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0.25,0.25,1.0,1.25,594809
+Tommy Edman,26,1043,Maj-NL,"Apr 1, 2021",St. Louis,@,Cincinnati,1,5,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.4,669242
+Eduardo Escobar,32,1043,Maj-NL,"Apr 1, 2021",Arizona,@,San Diego,1,4,4,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,500871
+Phillip Evans,28,1043,Maj-NL,"Apr 1, 2021",Pittsburgh,@,Chicago,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,1.0,,,595943
+Kyle Farmer,30,1043,Maj-NL,"Apr 1, 2021",Cincinnati,,St. Louis,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,571657
+Jack Flaherty,25,1043,Maj-NL,"Apr 1, 2021",St. Louis,@,Cincinnati,1,3,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0.0,0.667,0.0,0.667,656427
+David Fletcher,27,1043,Maj-AL,"Apr 1, 2021",Los Angeles,,Chicago,1,4,4,1,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,664058
+Wilmer Flores,29,1043,Maj-NL,"Apr 1, 2021",San Francisco,@,Seattle,1,5,5,1,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0.4,0.4,0.8,1.2,527038
+Dexter Fowler,35,1043,Maj-AL,"Apr 1, 2021",Los Angeles,,Chicago,1,3,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,451594
+Dustin Fowler,26,1043,Maj-NL,"Apr 1, 2021",Pittsburgh,@,Chicago,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1.0,1.0,1.0,2.0,641583
+Jake Fraley,26,1043,Maj-AL,"Apr 1, 2021",Seattle,,San Francisco,1,5,1,0,0,0,0,0,1,3,0,0,1,0,0,0,0,0,0.0,0.8,0.0,0.8,641584
+Ty France,26,1043,Maj-AL,"Apr 1, 2021",Seattle,,San Francisco,1,5,4,1,1,0,0,0,1,1,0,2,0,0,0,0,0,0,0.25,0.4,0.25,0.65,664034
+Adam Frazier,29,1043,Maj-NL,"Apr 1, 2021",Pittsburgh,@,Chicago,1,6,4,1,2,1,0,0,2,2,0,0,0,0,0,0,1,0,0.5,0.667,0.75,1.417,624428
+Clint Frazier,26,1043,Maj-AL,"Apr 1, 2021",New York,,Toronto,1,4,3,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0.667,0.75,0.667,1.417,640449
+Freddie Freeman,31,1043,Maj-NL,"Apr 1, 2021",Atlanta,@,Philadelphia,1,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.2,0.0,0.2,518692
+Max Fried,27,1043,Maj-NL,"Apr 1, 2021",Atlanta,@,Philadelphia,1,2,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,608331
+Joshua Fuentes,28,1043,Maj-NL,"Apr 1, 2021",Colorado,,Los Angeles,1,5,5,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0.2,0.2,0.2,0.4,658069
+Joey Gallo,27,1043,Maj-AL,"Apr 1, 2021",Texas,@,Kansas City,1,6,3,1,2,0,0,0,2,3,0,0,0,0,0,0,1,0,0.667,0.833,0.667,1.5,608336
+Ben Gamel,29,1043,Maj-AL,"Apr 1, 2021",Cleveland,@,Detroit,1,2,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.5,0.0,0.5,592325
+Avisa\xc3\xadl Garc\xc3\xada,30,1043,Maj-NL,"Apr 1, 2021",Milwaukee,,Minnesota,1,5,5,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0.4,0.4,0.4,0.8,541645
+Leury Garc\xc3\xada,30,1043,Maj-AL,"Apr 1, 2021",Chicago,@,Los Angeles,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,544725
+Robel Garc\xc3\xada,28,1043,Maj-AL,"Apr 1, 2021",Houston,@,Oakland,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,596825
+Brett Gardner,37,1043,Maj-AL,"Apr 1, 2021",New York,,Toronto,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,458731
+Kyle Garlick,29,1043,Maj-AL,"Apr 1, 2021",Minnesota,@,Milwaukee,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,664247
+Mitch Garver,30,1043,Maj-AL,"Apr 1, 2021",Minnesota,@,Milwaukee,1,5,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,641598
+Andr\xc3\xa9s Gim\xc3\xa9nez,22,1043,Maj-AL,"Apr 1, 2021",Cleveland,@,Detroit,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,665926
+Tyler Glasnow,27,1043,Maj-AL,"Apr 1, 2021",Tampa Bay,@,Miami,1,2,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,607192
+Paul Goldschmidt,33,1043,Maj-NL,"Apr 1, 2021",St. Louis,@,Cincinnati,1,5,5,3,4,2,0,0,1,0,0,0,0,0,0,0,0,0,0.8,0.8,1.2,2.0,502671
+Chi Chi Gonz\xc3\xa1lez,29,1043,Maj-NL,"Apr 1, 2021",Colorado,,Los Angeles,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,,,592346
+Erik Gonz\xc3\xa1lez,29,1043,Maj-NL,"Apr 1, 2021",Pittsburgh,@,Chicago,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,570481
+Yasmani Grandal,32,1043,Maj-AL,"Apr 1, 2021",Chicago,@,Los Angeles,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,518735
+Didi Gregorius,31,1043,Maj-NL,"Apr 1, 2021",Philadelphia,,Atlanta,1,5,4,0,1,0,0,0,0,1,1,3,0,0,0,0,0,0,0.25,0.4,0.25,0.65,544369
+Randal Grichuk,29,1043,Maj-AL,"Apr 1, 2021",Toronto,@,New York,1,4,4,0,2,1,0,0,1,0,0,1,0,0,0,0,0,1,0.5,0.5,0.75,1.25,545341
+Robbie Grossman,31,1043,Maj-AL,"Apr 1, 2021",Detroit,,Cleveland,1,4,1,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0.0,0.75,0.0,0.75,543257
+Vladimir Guerrero Jr.,22,1043,Maj-AL,"Apr 1, 2021",Toronto,@,New York,1,4,2,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0.5,0.75,0.5,1.25,665489
+Lourdes Gurriel Jr.,27,1043,Maj-AL,"Apr 1, 2021",Toronto,@,New York,1,4,4,0,1,0,0,0,1,0,0,2,0,0,0,1,0,0,0.25,0.25,0.25,0.5,666971
+Yuli Gurriel,37,1043,Maj-AL,"Apr 1, 2021",Houston,@,Oakland,1,5,4,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0.25,0.4,0.25,0.65,493329
+Garrett Hampson,26,1043,Maj-NL,"Apr 1, 2021",Colorado,,Los Angeles,1,4,3,2,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0.333,0.5,0.333,0.833,641658
+Mitch Haniger,30,1043,Maj-AL,"Apr 1, 2021",Seattle,,San Francisco,1,5,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.4,571745
+Ian Happ,26,1043,Maj-NL,"Apr 1, 2021",Chicago,,Pittsburgh,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,664023
+Bryce Harper,28,1043,Maj-NL,"Apr 1, 2021",Philadelphia,,Atlanta,1,5,4,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0.25,0.4,0.25,0.65,547180
+Adam Haseley,25,1043,Maj-NL,"Apr 1, 2021",Philadelphia,,Atlanta,1,3,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.333,0.333,0.333,0.667,656514
+Ke\'Bryan Hayes,24,1043,Maj-NL,"Apr 1, 2021",Pittsburgh,@,Chicago,1,6,5,1,1,0,0,1,2,1,0,1,0,0,0,0,0,0,0.2,0.333,0.8,1.133,663647
+Kyle Hendricks,31,1043,Maj-NL,"Apr 1, 2021",Chicago,,Pittsburgh,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,,,543294
+C\xc3\xa9sar Hern\xc3\xa1ndez,31,1043,Maj-AL,"Apr 1, 2021",Cleveland,@,Detroit,1,5,4,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0.25,0.4,0.5,0.9,514917
+Teoscar Hern\xc3\xa1ndez,28,1043,Maj-AL,"Apr 1, 2021",Toronto,@,New York,1,4,4,2,3,0,0,1,1,0,0,1,0,0,0,0,0,0,0.75,0.75,1.5,2.25,606192
+Jason Heyward,31,1043,Maj-NL,"Apr 1, 2021",Chicago,,Pittsburgh,1,4,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,518792
+Aaron Hicks,31,1043,Maj-AL,"Apr 1, 2021",New York,,Toronto,1,5,4,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.2,543305
+Kyle Higashioka,31,1043,Maj-AL,"Apr 1, 2021",New York,,Toronto,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,543309
+Keston Hiura,24,1043,Maj-NL,"Apr 1, 2021",Milwaukee,,Minnesota,1,5,5,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,669374
+Brock Holt,33,1043,Maj-AL,"Apr 1, 2021",Texas,@,Kansas City,1,5,2,0,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0.5,0.8,0.5,1.3,571788
+Rhys Hoskins,28,1043,Maj-NL,"Apr 1, 2021",Philadelphia,,Atlanta,1,5,5,1,1,1,0,0,0,0,0,3,0,0,0,0,0,0,0.2,0.2,0.4,0.6,656555
+Eric Hosmer,31,1043,Maj-NL,"Apr 1, 2021",San Diego,,Arizona,1,4,4,1,3,1,0,1,3,0,0,1,0,0,0,0,0,0,0.75,0.75,1.75,2.5,543333
+Jos\xc3\xa9 Iglesias,31,1043,Maj-AL,"Apr 1, 2021",Los Angeles,,Chicago,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,578428
+Jonathan India,24,1043,Maj-NL,"Apr 1, 2021",Cincinnati,,St. Louis,1,4,4,0,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0.5,0.5,0.75,1.25,663697
+Kyle Isbel,24,1043,Maj-AL,"Apr 1, 2021",Kansas City,,Texas,1,5,5,1,3,0,0,0,2,0,0,2,0,0,0,0,0,0,0.6,0.6,0.6,1.2,664728
+Danny Jansen,26,1043,Maj-AL,"Apr 1, 2021",Toronto,@,New York,1,4,4,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,643376
+JaCoby Jones,29,1043,Maj-AL,"Apr 1, 2021",Detroit,,Cleveland,1,3,3,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0.333,0.333,0.667,1.0,592444
+Aaron Judge,29,1043,Maj-AL,"Apr 1, 2021",New York,,Toronto,1,5,5,0,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0.2,0.2,0.2,0.4,592450
+Carson Kelly,26,1043,Maj-NL,"Apr 1, 2021",Arizona,@,San Diego,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,1.0,1.0,2.0,608348
+Max Kepler,28,1043,Maj-AL,"Apr 1, 2021",Minnesota,@,Milwaukee,1,5,5,1,3,1,1,0,1,0,0,0,0,0,0,0,0,0,0.6,0.6,1.2,1.8,596146
+Clayton Kershaw,33,1043,Maj-NL,"Apr 1, 2021",Los Angeles,@,Colorado,1,3,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0.667,0.667,0.667,1.333,477132
+Kevin Kiermaier,31,1043,Maj-AL,"Apr 1, 2021",Tampa Bay,@,Miami,1,4,4,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,595281
+Ha-Seong Kim,25,1043,Maj-NL,"Apr 1, 2021",San Diego,,Arizona,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,673490
+Isiah Kiner-Falefa,26,1043,Maj-AL,"Apr 1, 2021",Texas,@,Kansas City,1,6,5,3,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0.2,0.333,0.4,0.733,643396
+Chad Kuhl,28,1043,Maj-NL,"Apr 1, 2021",Pittsburgh,@,Chicago,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,641771
+Ram\xc3\xb3n Laureano,26,1043,Maj-AL,"Apr 1, 2021",Oakland,,Houston,1,4,4,1,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0.5,0.5,0.75,1.25,657656
+DJ LeMahieu,32,1043,Maj-AL,"Apr 1, 2021",New York,,Toronto,1,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.2,0.0,0.2,518934
+Tim Locastro,28,1043,Maj-NL,"Apr 1, 2021",Arizona,@,San Diego,1,2,2,1,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0.5,0.5,2.0,2.5,641796
+Evan Longoria,35,1043,Maj-NL,"Apr 1, 2021",San Francisco,@,Seattle,1,5,4,1,2,0,0,1,1,1,1,2,0,0,0,0,0,0,0.5,0.6,1.25,1.85,446334
+Nicky Lopez,26,1043,Maj-AL,"Apr 1, 2021",Kansas City,,Texas,1,5,4,1,2,0,0,0,1,0,0,0,0,0,1,0,0,0,0.5,0.4,0.5,0.9,670032
+Brandon Lowe,26,1043,Maj-AL,"Apr 1, 2021",Tampa Bay,@,Miami,1,4,3,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0.333,0.5,0.667,1.167,664040
+Nathaniel Lowe,25,1043,Maj-AL,"Apr 1, 2021",Texas,@,Kansas City,1,6,6,1,2,1,0,0,4,0,0,3,0,0,0,0,0,0,0.333,0.333,0.5,0.833,663993
+Jed Lowrie,37,1043,Maj-AL,"Apr 1, 2021",Oakland,,Houston,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,476704
+Jordan Luplow,27,1043,Maj-AL,"Apr 1, 2021",Cleveland,@,Detroit,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,656669
+Gavin Lux,23,1043,Maj-NL,"Apr 1, 2021",Los Angeles,@,Colorado,1,4,4,0,2,0,0,0,1,0,0,1,0,0,0,1,0,0,0.5,0.5,0.5,1.0,666158
+Manny Machado,28,1043,Maj-NL,"Apr 1, 2021",San Diego,,Arizona,1,5,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,592518
+Nick Madrigal,24,1043,Maj-AL,"Apr 1, 2021",Chicago,@,Los Angeles,1,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0.333,0.333,0.333,0.667,663611
+Kenta Maeda,33,1043,Maj-AL,"Apr 1, 2021",Minnesota,@,Milwaukee,1,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.0,0.0,0.0,628317
+Mart\xc3\xadn Maldonado,34,1043,Maj-AL,"Apr 1, 2021",Houston,@,Oakland,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,455117
+Tucupita Marcano,21,1043,Maj-NL,"Apr 1, 2021",San Diego,,Arizona,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,1.0,,,672779
+Manuel Margot,26,1043,Maj-AL,"Apr 1, 2021",Tampa Bay,@,Miami,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,622534
+Jos\xc3\xa9 Marmolejos,28,1043,Maj-AL,"Apr 1, 2021",Seattle,,San Francisco,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,592530
+Germ\xc3\xa1n M\xc3\xa1rquez,26,1043,Maj-NL,"Apr 1, 2021",Colorado,,Los Angeles,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,608566
+Ketel Marte,27,1043,Maj-NL,"Apr 1, 2021",Arizona,@,San Diego,1,5,5,2,4,1,0,1,1,0,0,1,0,0,0,0,0,0,0.8,0.8,1.6,2.4,606466
+Starling Marte,32,1043,Maj-NL,"Apr 1, 2021",Miami,,Tampa Bay,1,4,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,516782
+Wyatt Mathisen,27,1043,Maj-NL,"Apr 1, 2021",Arizona,@,San Diego,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,621500
+Nomar Mazara,26,1043,Maj-AL,"Apr 1, 2021",Detroit,,Cleveland,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,608577
+Chas McCormick,26,1043,Maj-AL,"Apr 1, 2021",Houston,@,Oakland,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,676801
+Andrew McCutchen,34,1043,Maj-NL,"Apr 1, 2021",Philadelphia,,Atlanta,1,5,4,1,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0.25,0.4,0.25,0.65,457705
+Billy McKinney,26,1043,Maj-NL,"Apr 1, 2021",Milwaukee,,Minnesota,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,1.0,1.0,2.0,641856
+Zach McKinstry,26,1043,Maj-NL,"Apr 1, 2021",Los Angeles,@,Colorado,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1.0,1.0,2.0,3.0,656716
+Ryan McMahon,26,1043,Maj-NL,"Apr 1, 2021",Colorado,,Los Angeles,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,641857
+Austin Meadows,26,1043,Maj-AL,"Apr 1, 2021",Tampa Bay,@,Miami,1,4,4,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0.25,0.25,1.0,1.25,640457
+Whit Merrifield,32,1043,Maj-AL,"Apr 1, 2021",Kansas City,,Texas,1,6,5,2,3,0,0,1,2,0,0,0,0,0,1,0,0,0,0.6,0.5,1.2,1.7,593160
+Brad Miller,31,1043,Maj-NL,"Apr 1, 2021",Philadelphia,,Atlanta,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,543543
+Yadier Molina,38,1043,Maj-NL,"Apr 1, 2021",St. Louis,@,Cincinnati,1,4,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,425877
+Yo\xc3\xa1n Moncada,26,1043,Maj-AL,"Apr 1, 2021",Chicago,@,Los Angeles,1,4,3,0,2,1,0,0,0,1,0,1,0,0,0,0,0,0,0.667,0.75,1.0,1.75,660162
+Dylan Moore,28,1043,Maj-AL,"Apr 1, 2021",Seattle,,San Francisco,1,5,3,1,1,1,0,0,3,1,0,1,0,0,1,0,0,0,0.333,0.4,0.667,1.067,664238
+Colin Moran,28,1043,Maj-NL,"Apr 1, 2021",Pittsburgh,@,Chicago,1,5,2,1,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0.0,0.6,0.0,0.6,592567
+Mitch Moreland,35,1043,Maj-AL,"Apr 1, 2021",Oakland,,Houston,1,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.333,0.0,0.333,519048
+Mike Moustakas,32,1043,Maj-NL,"Apr 1, 2021",Cincinnati,,St. Louis,1,5,2,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0,0.0,0.4,0.0,0.4,519058
+Max Muncy,30,1043,Maj-NL,"Apr 1, 2021",Los Angeles,@,Colorado,1,5,4,0,2,0,1,0,1,1,0,1,0,0,0,0,0,0,0.5,0.6,1.0,1.6,571970
+Sean Murphy,26,1043,Maj-AL,"Apr 1, 2021",Oakland,,Houston,1,4,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0.0,0.25,0.0,0.25,669221
+Tom Murphy,30,1043,Maj-AL,"Apr 1, 2021",Seattle,,San Francisco,1,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,608596
+Wil Myers,30,1043,Maj-NL,"Apr 1, 2021",San Diego,,Arizona,1,4,3,2,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0.333,0.5,1.333,1.833,571976
+Tyler Naquin,30,1043,Maj-NL,"Apr 1, 2021",Cincinnati,,St. Louis,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,571980
+Omar Narv\xc3\xa1ez,29,1043,Maj-NL,"Apr 1, 2021",Milwaukee,,Minnesota,1,5,5,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0.4,0.4,0.4,0.8,553882
+Josh Naylor,24,1043,Maj-AL,"Apr 1, 2021",Cleveland,@,Detroit,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,647304
+Kevin Newman,27,1043,Maj-NL,"Apr 1, 2021",Pittsburgh,@,Chicago,1,5,5,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0.4,0.4,0.8,621028
+Aaron Nola,28,1043,Maj-NL,"Apr 1, 2021",Philadelphia,,Atlanta,1,3,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0.0,0.0,0.0,0.0,605400
+Tyler O\'Neill,26,1043,Maj-NL,"Apr 1, 2021",St. Louis,@,Cincinnati,1,5,4,2,1,0,0,1,2,0,0,1,1,0,0,0,0,0,0.25,0.4,1.0,1.4,641933
+Shohei Ohtani,26,1043,Maj-AL,"Apr 1, 2021",Los Angeles,,Chicago,1,4,4,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,660271
+Matt Olson,27,1043,Maj-AL,"Apr 1, 2021",Oakland,,Houston,1,4,3,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0.0,0.25,0.0,0.25,621566
+Chris Owings,29,1043,Maj-NL,"Apr 1, 2021",Colorado,,Los Angeles,1,4,3,3,3,0,1,0,1,1,0,0,0,0,0,0,2,0,1.0,1.0,1.667,2.667,572008
+Marcell Ozuna,30,1043,Maj-NL,"Apr 1, 2021",Atlanta,@,Philadelphia,1,5,5,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.2,0.2,0.2,0.4,542303
+Cristian Pache,22,1043,Maj-NL,"Apr 1, 2021",Atlanta,@,Philadelphia,1,4,4,1,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.5,0.75,665506
+Joc Pederson,29,1043,Maj-NL,"Apr 1, 2021",Chicago,,Pittsburgh,1,4,2,0,0,0,0,0,1,1,0,2,0,0,1,0,0,0,0.0,0.25,0.0,0.25,592626
+David Peralta,33,1043,Maj-NL,"Apr 1, 2021",Arizona,@,San Diego,1,5,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,444482
+Michael P\xc3\xa9rez,28,1043,Maj-NL,"Apr 1, 2021",Pittsburgh,@,Chicago,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,605421
+Roberto P\xc3\xa9rez,32,1043,Maj-AL,"Apr 1, 2021",Cleveland,@,Detroit,1,4,2,1,1,0,0,1,2,2,0,1,0,0,0,0,0,0,0.5,0.75,2.0,2.75,547379
+Salvador P\xc3\xa9rez,31,1043,Maj-AL,"Apr 1, 2021",Kansas City,,Texas,1,6,4,2,0,0,0,0,1,1,0,2,1,0,0,0,0,0,0.0,0.333,0.0,0.333,521692
+Tommy Pham,33,1043,Maj-NL,"Apr 1, 2021",San Diego,,Arizona,1,5,4,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0.25,0.4,0.25,0.65,502054
+Chad Pinder,29,1043,Maj-AL,"Apr 1, 2021",Oakland,,Houston,1,4,4,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0.5,0.5,0.5,1.0,640461
+Gregory Polanco,29,1043,Maj-NL,"Apr 1, 2021",Pittsburgh,@,Chicago,1,5,4,1,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0.0,0.2,0.0,0.2,570256
+Jorge Polanco,27,1043,Maj-AL,"Apr 1, 2021",Minnesota,@,Milwaukee,1,5,4,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0.0,0.2,0.0,0.2,593871
+Buster Posey,34,1043,Maj-NL,"Apr 1, 2021",San Francisco,@,Seattle,1,5,4,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0.25,0.4,1.0,1.4,457763
+Jurickson Profar,28,1043,Maj-NL,"Apr 1, 2021",San Diego,,Arizona,1,4,2,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0.0,0.25,0.0,0.25,595777
+Albert Pujols,41,1043,Maj-AL,"Apr 1, 2021",Los Angeles,,Chicago,1,4,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,405395
+Roman Quinn,28,1043,Maj-NL,"Apr 1, 2021",Philadelphia,,Atlanta,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,596451
+Jos\xc3\xa9 Ram\xc3\xadrez,28,1043,Maj-AL,"Apr 1, 2021",Cleveland,@,Detroit,1,4,3,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.333,0.5,0.333,0.833,608070
+Wilson Ramos,33,1043,Maj-AL,"Apr 1, 2021",Detroit,,Cleveland,1,4,3,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0.0,0.25,0.0,0.25,467092
+J.T. Realmuto,30,1043,Maj-NL,"Apr 1, 2021",Philadelphia,,Atlanta,1,5,4,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0.5,0.6,0.75,1.35,592663
+Anthony Rendon,31,1043,Maj-AL,"Apr 1, 2021",Los Angeles,,Chicago,1,4,3,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0.333,0.5,0.333,0.833,543685
+Franmil Reyes,25,1043,Maj-AL,"Apr 1, 2021",Cleveland,@,Detroit,1,4,3,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0,0.25,0.0,0.25,614177
+V\xc3\xadctor Reyes,26,1043,Maj-AL,"Apr 1, 2021",Detroit,,Cleveland,1,4,4,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,622682
+Bryan Reynolds,26,1043,Maj-NL,"Apr 1, 2021",Pittsburgh,@,Chicago,1,5,4,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.25,0.4,0.25,0.65,668804
+Austin Riley,24,1043,Maj-NL,"Apr 1, 2021",Atlanta,@,Philadelphia,1,4,3,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0.333,0.5,0.333,0.833,663586
+Edwin R\xc3\xados,27,1043,Maj-NL,"Apr 1, 2021",Los Angeles,@,Colorado,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,621458
+Anthony Rizzo,31,1043,Maj-NL,"Apr 1, 2021",Chicago,,Pittsburgh,1,4,3,0,1,1,0,0,1,0,0,1,0,0,1,0,0,0,0.333,0.25,0.667,0.917,519203
+Luis Robert Jr.,23,1043,Maj-AL,"Apr 1, 2021",Chicago,@,Los Angeles,1,4,4,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0.25,0.25,0.5,0.75,673357
+Daniel Robertson,27,1043,Maj-NL,"Apr 1, 2021",Milwaukee,,Minnesota,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,621002
+Josh Rojas,27,1043,Maj-NL,"Apr 1, 2021",Arizona,@,San Diego,1,5,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,668942
+Miguel Rojas,32,1043,Maj-NL,"Apr 1, 2021",Miami,,Tampa Bay,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,500743
+Amed Rosario,25,1043,Maj-AL,"Apr 1, 2021",Cleveland,@,Detroit,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,1.0,1.0,2.0,642708
+Eddie Rosario,29,1043,Maj-AL,"Apr 1, 2021",Cleveland,@,Detroit,1,4,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25,0.25,0.25,0.5,592696
+Gary S\xc3\xa1nchez,28,1043,Maj-AL,"Apr 1, 2021",New York,,Toronto,1,4,3,1,2,0,0,1,2,1,0,0,0,0,0,0,0,0,0.667,0.75,1.667,2.417,596142
+Pablo Sandoval,34,1043,Maj-NL,"Apr 1, 2021",Atlanta,@,Philadelphia,1,1,1,1,1,0,0,1,2,0,0,0,0,0,0,0,0,0,1.0,1.0,4.0,5.0,467055
+Miguel San\xc3\xb3,28,1043,Maj-AL,"Apr 1, 2021",Minnesota,@,Milwaukee,1,5,4,1,1,0,0,0,0,1,0,3,0,0,0,0,0,0,0.25,0.4,0.25,0.65,593934
+Carlos Santana,35,1043,Maj-AL,"Apr 1, 2021",Kansas City,,Texas,1,6,3,2,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0.333,0.667,0.333,1.0,467793
+Jonathan Schoop,29,1043,Maj-AL,"Apr 1, 2021",Detroit,,Cleveland,1,4,3,0,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0.333,0.5,0.333,0.833,570731
+Corey Seager,27,1043,Maj-NL,"Apr 1, 2021",Los Angeles,@,Colorado,1,5,3,0,2,0,0,0,1,2,0,0,0,0,0,0,0,0,0.667,0.8,0.667,1.467,608369
+Kyle Seager,33,1043,Maj-AL,"Apr 1, 2021",Seattle,,San Francisco,1,5,4,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0.25,0.4,0.5,0.9,572122
+Jean Segura,31,1043,Maj-NL,"Apr 1, 2021",Philadelphia,,Atlanta,1,5,5,0,2,0,0,0,1,0,0,0,0,0,0,0,1,0,0.4,0.4,0.4,0.8,516416
+Marcus Semien,30,1043,Maj-AL,"Apr 1, 2021",Toronto,@,New York,1,5,5,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,543760
+Nick Senzel,26,1043,Maj-NL,"Apr 1, 2021",Cincinnati,,St. Louis,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,669222
+Travis Shaw,31,1043,Maj-NL,"Apr 1, 2021",Milwaukee,,Minnesota,1,5,4,0,2,1,0,0,3,1,0,0,0,0,0,0,0,0,0.5,0.6,0.75,1.35,543768
+Magneuris Sierra,25,1043,Maj-NL,"Apr 1, 2021",Miami,,Tampa Bay,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,642423
+Andrelton Simmons,31,1043,Maj-AL,"Apr 1, 2021",Minnesota,@,Milwaukee,1,5,4,1,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0.5,0.6,0.5,1.1,592743
+Austin Slater,28,1043,Maj-NL,"Apr 1, 2021",San Francisco,@,Seattle,1,4,3,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0.333,0.5,1.333,1.833,596103
+Pavin Smith,25,1043,Maj-NL,"Apr 1, 2021",Arizona,@,San Diego,1,2,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,1.0,1.5,656976
+Will Smith,26,1043,Maj-NL,"Apr 1, 2021",Los Angeles,@,Colorado,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,1.0,,,669257
+Eric Sogard,35,1043,Maj-NL,"Apr 1, 2021",Chicago,,Pittsburgh,1,2,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,1.0,1.5,519299
+Nick Solak,26,1043,Maj-AL,"Apr 1, 2021",Texas,@,Kansas City,1,6,5,2,1,0,0,0,1,0,0,3,1,0,0,0,0,0,0.2,0.333,0.2,0.533,669256
+Donovan Solano,33,1043,Maj-NL,"Apr 1, 2021",San Francisco,@,Seattle,1,5,5,2,2,1,0,0,0,0,0,1,0,0,0,1,0,0,0.4,0.4,0.6,1.0,456781
+Jorge Soler,29,1043,Maj-AL,"Apr 1, 2021",Kansas City,,Texas,1,6,2,2,2,0,0,1,2,2,0,0,1,0,0,0,0,0,1.0,1.0,2.5,3.5,624585
+Jacob Stallings,31,1043,Maj-NL,"Apr 1, 2021",Pittsburgh,@,Chicago,1,5,4,0,2,1,0,0,1,1,0,2,0,0,0,0,0,0,0.5,0.6,0.75,1.35,607732
+Giancarlo Stanton,31,1043,Maj-AL,"Apr 1, 2021",New York,,Toronto,1,5,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,519317
+Max Stassi,30,1043,Maj-AL,"Apr 1, 2021",Los Angeles,,Chicago,1,3,3,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0.667,0.667,1.667,2.333,545358
+Tyler Stephenson,24,1043,Maj-NL,"Apr 1, 2021",Cincinnati,,St. Louis,1,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.333,0.333,0.333,0.667,663886
+Trevor Story,28,1043,Maj-NL,"Apr 1, 2021",Colorado,,Los Angeles,1,5,5,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0.4,0.4,0.4,0.8,596115
+Myles Straw,26,1043,Maj-AL,"Apr 1, 2021",Houston,@,Oakland,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,664702
+Eugenio Su\xc3\xa1rez,29,1043,Maj-NL,"Apr 1, 2021",Cincinnati,,St. Louis,1,5,3,1,1,0,0,1,1,2,0,1,0,0,0,0,0,0,0.333,0.6,1.333,1.933,553993
+Dansby Swanson,27,1043,Maj-NL,"Apr 1, 2021",Atlanta,@,Philadelphia,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,621020
+Raimel Tapia,27,1043,Maj-NL,"Apr 1, 2021",Colorado,,Los Angeles,1,5,5,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.4,606132
+Fernando Tatis Jr.,22,1043,Maj-NL,"Apr 1, 2021",San Diego,,Arizona,1,5,5,1,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0.2,0.2,0.2,0.4,665487
+Mike Tauchman,30,1043,Maj-AL,"Apr 1, 2021",New York,,Toronto,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,,,,,643565
+Leody Taveras,22,1043,Maj-AL,"Apr 1, 2021",Texas,@,Kansas City,1,5,5,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,665750
+Chris Taylor,30,1043,Maj-NL,"Apr 1, 2021",Los Angeles,@,Colorado,1,5,3,0,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0.333,0.6,0.333,0.933,621035
+Michael A. Taylor,30,1043,Maj-AL,"Apr 1, 2021",Kansas City,,Texas,1,5,5,1,3,0,0,1,3,0,0,0,0,0,0,0,0,0,0.6,0.6,1.2,1.8,572191
+Rowdy Tellez,26,1043,Maj-AL,"Apr 1, 2021",Toronto,@,New York,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,642133
+Ka\'ai Tom,27,1043,Maj-AL,"Apr 1, 2021",Oakland,,Houston,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,664789
+Luis Torrens,25,1043,Maj-AL,"Apr 1, 2021",Seattle,,San Francisco,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,620443
+Gleyber Torres,24,1043,Maj-AL,"Apr 1, 2021",New York,,Toronto,1,5,4,1,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0.25,0.4,0.25,0.65,650402
+Taylor Trammell,23,1043,Maj-AL,"Apr 1, 2021",Seattle,,San Francisco,1,5,3,1,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0.0,0.4,0.0,0.4,666211
+Jose Trevino,28,1043,Maj-AL,"Apr 1, 2021",Texas,@,Kansas City,1,5,5,1,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0.6,0.6,0.6,1.2,624431
+Mike Trout,29,1043,Maj-AL,"Apr 1, 2021",Los Angeles,,Chicago,1,4,2,1,1,0,0,0,1,2,0,1,0,0,0,0,0,0,0.5,0.75,0.5,1.25,545361
+Yoshi Tsutsugo,29,1043,Maj-AL,"Apr 1, 2021",Tampa Bay,@,Miami,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,660294
+Kyle Tucker,24,1043,Maj-AL,"Apr 1, 2021",Houston,@,Oakland,1,5,3,1,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0.0,0.2,0.0,0.2,663656
+Justin Turner,36,1043,Maj-NL,"Apr 1, 2021",Los Angeles,@,Colorado,1,5,4,1,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0.25,0.2,0.25,0.45,457759
+Justin Upton,33,1043,Maj-AL,"Apr 1, 2021",Los Angeles,,Chicago,1,4,3,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0.333,0.5,0.333,0.833,457708
+Luis Ur\xc3\xadas,24,1043,Maj-NL,"Apr 1, 2021",Milwaukee,,Minnesota,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,649966
+Gio Urshela,29,1043,Maj-AL,"Apr 1, 2021",New York,,Toronto,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,570482
+Daniel Vogelbach,28,1043,Maj-NL,"Apr 1, 2021",Milwaukee,,Minnesota,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,596129
+Stephen Vogt,36,1043,Maj-NL,"Apr 1, 2021",Arizona,@,San Diego,1,4,4,1,1,0,0,1,1,0,0,2,0,0,0,0,0,0,0.25,0.25,1.0,1.25,519390
+Joey Votto,37,1043,Maj-NL,"Apr 1, 2021",Cincinnati,,St. Louis,1,5,5,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.4,458015
+Tyler Wade,26,1043,Maj-AL,"Apr 1, 2021",New York,,Toronto,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,642180
+Christian Walker,30,1043,Maj-NL,"Apr 1, 2021",Arizona,@,San Diego,1,5,4,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.25,0.4,0.25,0.65,572233
+Eli White,27,1043,Maj-AL,"Apr 1, 2021",Texas,@,Kansas City,1,5,4,0,2,0,0,0,2,1,0,2,0,0,0,0,0,0,0.5,0.6,0.5,1.1,642201
+Evan White,25,1043,Maj-AL,"Apr 1, 2021",Seattle,,San Francisco,1,5,5,2,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0.2,0.2,0.4,0.6,657108
+Justin Williams,25,1043,Maj-NL,"Apr 1, 2021",St. Louis,@,Cincinnati,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,642211
+Jesse Winker,27,1043,Maj-NL,"Apr 1, 2021",Cincinnati,,St. Louis,1,5,4,2,2,1,0,0,0,1,0,2,0,0,0,0,0,0,0.5,0.6,0.75,1.35,608385
+Kolten Wong,30,1043,Maj-NL,"Apr 1, 2021",Milwaukee,,Minnesota,1,5,3,2,1,0,0,0,0,1,0,2,1,0,0,0,0,0,0.333,0.6,0.333,0.933,543939
+Brandon Woodruff,28,1043,Maj-NL,"Apr 1, 2021",Milwaukee,,Minnesota,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,605540
+Mike Yastrzemski,30,1043,Maj-NL,"Apr 1, 2021",San Francisco,@,Seattle,1,5,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,573262
+Christian Yelich,29,1043,Maj-NL,"Apr 1, 2021",Milwaukee,,Minnesota,1,5,4,2,2,0,0,0,1,0,0,1,1,0,0,0,0,0,0.5,0.6,0.5,1.1,592885
+Mike Zunino,30,1043,Maj-AL,"Apr 1, 2021",Tampa Bay,@,Miami,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,572287
